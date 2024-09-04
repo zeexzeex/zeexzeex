@@ -65,9 +65,6 @@
 
 <div align="center">
 
-###  Backend Developer 
-    
-    Java와 Spring boot를 사용하여 웹 개발을 합니다. 
 <br/>
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
