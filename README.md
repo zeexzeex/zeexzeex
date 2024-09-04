@@ -69,7 +69,7 @@
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Avocado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avocado)](https://github.com/anuraghazra/github-readme-stats)
+[![Avocado's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeexzeex)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwn20)](https://solved.ac/dnwn20) -->
