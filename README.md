@@ -1,7 +1,8 @@
 
 <div align="center">
    
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DC85D,30:78B159,60:A4C639,100:6AB47C&height=150&section=header&text=Avocado&fontSize=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572
+
 
 
 ###  Backend Developer 
