@@ -44,10 +44,12 @@
        <img src="https://img.shields.io/badge/vue.js-6DB33F?style=flat-square&logo=vue.js&logoColor=white">
     </div>
 
+<!--
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-        
+-->
+
 </div>
 
 <br/>
