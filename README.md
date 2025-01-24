@@ -11,7 +11,7 @@
 <!--END_SECTION:waka-->
     
    
-## 💻 Tech Stacks 💻
+<!-- ## 💻 Tech Stacks 💻 -->
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
