@@ -5,6 +5,22 @@
 ## 🧑‍💻 Developer 
 <!-- GitHub stats -->
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeexzeex&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeexzeex&theme=github_dark" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeexzeex&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeexzeex&theme=github_dark&utcOffset=9" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeexzeex&theme=github_dark" />
+</p>
+
+
 <!-- BOJ, WakaTime -->
 <!-- <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwn20" height="25"/>  
