@@ -7,13 +7,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeexzeex&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeexzeex&theme=github_dark" height="180em" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg?v=20261002" height="180em" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg?v=20261002" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeexzeex&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeexzeex&theme=github_dark&utcOffset=9" height="180em" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg?v=20261002" height="180em" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg?v=20261002" height="180em" />
 </p>
 
 <p align="center">
